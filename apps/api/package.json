@@ -1,0 +1,17 @@
+{
+  "name": "@jack-agency/training-alexandre-api",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "private": true,
+  "description": "Your code (entrypoint, middlewares, ...) MUST live in the src/ directory.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.5",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}

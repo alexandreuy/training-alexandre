@@ -1,0 +1,10 @@
+{
+  "name": "@jack-agency/training-alexandre",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ],
+  "repository": "https://github.com/jack-agency/training-alexandre.git",
+  "author": "Gaëtan Simon <gaetan.simon@jack.agency>"
+}
